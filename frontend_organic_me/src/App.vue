@@ -30,7 +30,7 @@
   <img alt="Vue logo" src="./assets/OgranicMe.png">
   <!-- <HelloWorld msg="Welcome to Our Coffe Shop and Store"/> -->
   <MainContent/>
-  <div class="dropdown">
+  <!-- <div class="dropdown">
     <button
       class="btn btn-secondary dropdown-toggle"
       type="button"
@@ -51,7 +51,7 @@
       <li><a class="dropdown-item" href="#">Another action 7</a></li>
       <li><a class="dropdown-item" href="#">Something else here</a></li>
     </ul>
-  </div>
+  </div> -->
  
     <!-- Navbar section end -->
     <div class="container-xxl">

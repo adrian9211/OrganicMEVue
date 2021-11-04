@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
-/dist
+/frontend_organic_me/dist
 
 
 # local env files

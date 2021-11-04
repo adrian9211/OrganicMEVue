@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
       <div class="container">
         <a class="navbar-brand" href="#">
-          <img src="./assets/OgranicMe.netlify.app.raw2.png" alt="logo image" class="img-fluid" href="#">
+          <img src="./assets/Navbar_icon.png" alt="logo image" class="img-fluid" href="#">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
